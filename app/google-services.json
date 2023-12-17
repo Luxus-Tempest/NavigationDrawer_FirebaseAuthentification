@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "970572968324",
+    "project_id": "appfirebase-a6900",
+    "storage_bucket": "appfirebase-a6900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970572968324:android:b4192f9684704e039dadd1",
+        "android_client_info": {
+          "package_name": "ensa.ma.app_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970572968324-5vm1m9pgtr9iir538pdc6cfsijp30b4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ensa.ma.app_firebase",
+            "certificate_hash": "c2c1495ff34fd174d11ba84f1f54e571f8917e8c"
+          }
+        },
+        {
+          "client_id": "970572968324-8piq8khg0k9f29ftkq73l9rs3oig10nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgb-WE4IdrfHbI8C-6oDdhecC1dwHv0is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970572968324-8piq8khg0k9f29ftkq73l9rs3oig10nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
